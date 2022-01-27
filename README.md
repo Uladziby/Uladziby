@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Vlad
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in frontend development 
+- My stack : JS, React , Typescript.
