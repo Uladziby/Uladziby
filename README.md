@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Vlad
-- tech stack : JS, React , Typescript.
+- 👋 I'm frontend developer
+- tech stack : JS/TS, React , HTML, CSS , RestApi, GraphQL, MongoDB. 
 ### 🌐 Socials:
 <div align=center>
 
