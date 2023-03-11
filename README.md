@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vlad
-- My stack : JS, React , Typescript.
+- tech stack : JS, React , Typescript.
 ### 🌐 Socials:
 <div align=center>
 
