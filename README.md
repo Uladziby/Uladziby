@@ -1,5 +1,4 @@
 - 👋 I'm frontend developer
-- tech stack : JS/TS, React, NextJS. 
 ### 🌐 Socials:
 <div align=center>
 
