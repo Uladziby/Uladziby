@@ -1,4 +1,4 @@
-- 👋 I'm frontend developer ( React , Next.Js , Typescript.)
+- 👋 Frontend Developer ( React , Next.Js , Typescript.)
 
 - ### 🌐 Socials:
 <div align=center>
